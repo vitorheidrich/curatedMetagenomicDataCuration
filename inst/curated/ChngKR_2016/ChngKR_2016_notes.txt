@@ -1,8 +1,5 @@
 ChngKR_2016 is a dataset about 39 individuals sampled
-2 times each. 
-
-Apparently it's not a mutliple time points study.
-They just seem to be sampled twice.
+twice (left antecubital fossa AND right antecubital fossa). 
 
 BODYSITE: SKIN
 DISEASE: Atopic Dermatitis (AD)
